@@ -27,7 +27,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a informatics engineering student from <b>Surakarta</b> 」
+    「 I am an informatics engineering student from <b>Surakarta</b> 」
     <br>
     <br>
   </samp>
@@ -108,6 +108,6 @@
 
 ![Ilham's Graph](https://github-readme-activity-graph.vercel.app/graph?username=IlhamAufal&custom_title=Faal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<h3>Credit to:
+<p>Credit to:
 <a href="https://github.com/alsiam/alsiam">alsiam</a>
-</h3>
+</p>
